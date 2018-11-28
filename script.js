@@ -14,9 +14,6 @@ var mediumtotal = medium * mediumprice;
 var largetotal = large * largeprice;
 var totalprice = smalltotal + mediumtotal + largetotal;
 
-
-
-
 document.write("U heeft gekozen voor small pizza's € " + smalltotal +'<br>');
 document.write("U heeft gekozen voor medium pizza's € " + mediumtotal + '<br>');
 document.write("U heeft gekozen voor large pizza's € " + largetotal + '<br>');
